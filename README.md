@@ -1,10 +1,10 @@
 # Legend of Zelda Created Using Monogame C#
 
 ## Team Members:
+- Minsoo Kim
 - Pavan Rauch
 - Bill Yang
 - Yash Wani
-- Minsoo Kim
 - Luke Haynes
 - Sam Espanioly
 
